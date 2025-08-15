@@ -11,7 +11,7 @@ This project is a Python-based network sniffer developed as part of the CodeAlph
 - Displays key information for each packet, including:
     - Source IP and Destination IP
     - Protocol (e.g., TCP, UDP)
-    - Payload (optional, if you added this feature)
+    - Payload (optional)
 - Utilizes the `scapy` library for robust packet manipulation.
 
 ---
@@ -29,7 +29,7 @@ This project is a Python-based network sniffer developed as part of the CodeAlph
 
 Before running the program, ensure you have the following installed:
 
-1.  **Python:** [You can add a link to the official Python download page here, e.g., `https://www.python.org/downloads/`]
+1.  **Python:** [`https://www.python.org/downloads/`]
 2.  **Scapy:** Install using pip.
     ```bash
     pip install scapy
