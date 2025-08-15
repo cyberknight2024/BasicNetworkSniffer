@@ -34,7 +34,7 @@ Before running the program, ensure you have the following installed:
     ```bash
     pip install scapy
     ```
-3.  **Npcap (for Windows users):** Download and install Npcap from the official website ([You can add a link to the Npcap download page here, e.g., `https://nmap.org/npcap/`]). Make sure to check the "Install Npcap in WinPcap API-compatible Mode" option during installation.
+3.  **Npcap (for Windows users):** Download and install Npcap from the official website (`https://nmap.org/npcap/'). Make sure to check the "Install Npcap in WinPcap API-compatible Mode" option during installation.
 
 #### Usage
 
